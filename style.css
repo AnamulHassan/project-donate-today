@@ -270,12 +270,13 @@ body {
 }
 .input-mail-box {
   height: 20rem;
+  width: 75rem;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: #fff4d6;
   border-radius: 0.6rem;
-  margin: 1.6rem 30rem;
 }
 .input-mail {
   display: block;
